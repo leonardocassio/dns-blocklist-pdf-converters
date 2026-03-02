@@ -29,17 +29,6 @@ https://github.com/leonardocassio/dns-blocklist-pdf-converters/blob/master/block
 
 Exemplo:
 ||novoconversor.com^
-# Novo serviço PDF identificado em 2026-03-05
-
-## Header do blocklist.txt (modelo)
-
-!
-! Title: Leonardo's PDF Converters Blocklist
-! Description: Blocks popular online PDF converters to prevent data upload
-! Version: 1.0.0
-! Homepage: https://github.com/leonardocassio/dns-blocklist-pdf-converters
-! Last modified: 2026-03-02
-!
 
 ## Autor
 
