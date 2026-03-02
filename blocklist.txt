@@ -20,3 +20,16 @@
 ||pdfresizer.com^
 ||docfly.com^
 ||web2pdfconvert.com^
+||hipdf.com^          
+||avepdf.com^        
+||pdfgear.com^        
+||swifdoo.com^       
+||maxai.co^           
+||xodo.com^           
+||foxit.com^          
+||compress2go.com^ 
+||pdfe.comˆ
+||thebestpdf.comˆ
+||pdfguru.comˆ
+||pdfsimpli.comˆ
+||site.docs.onlyoffice.comˆ
