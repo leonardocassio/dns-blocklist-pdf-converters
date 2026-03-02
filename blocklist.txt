@@ -1,3 +1,13 @@
+!
+! Title: Leonardo's PDF Converters Blocklist
+! Description: Blocks popular online PDF converters (iLovePDF, SmallPDF, etc.) to prevent data upload to file conversion services.
+! Version: 1.0.0
+! Homepage: https://github.com/leonardocassio/dns-blocklist-pdf-converters
+! Last modified: 2026-03-02
+!
+! Generated for AdGuard Home DNS blocking
+! Source: Comprehensive list of online PDF tools/services
+
 ||ilovepdf.com^
 ||smallpdf.com^
 ||pdf2go.com^
@@ -32,4 +42,3 @@
 ||thebestpdf.com^
 ||pdfguru.com^
 ||pdfsimpli.com^
-||onlyoffice.com^
